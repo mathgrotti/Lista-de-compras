@@ -1,7 +1,7 @@
 <p align="left">
   <img align="right" alt="Matheus-gif" src="https://media.discordapp.net/attachments/782794257085366274/1342552615480987688/ezgif-473f9c1557b578.gif?ex=67ba0d0e&is=67b8bb8e&hm=8afcf8b983ea372313ce3d582fafbbfd0eb6e81f39bc439c3a5149b562e21151&=&width=180&height=180">
 </p>
-📝*LISTA DE COMPRAS*<br>
+📝*LISTA DE COMPRAS*<br><br>
 
 
 📱Um aplicativo de gerenciamento de lista de produtos.
