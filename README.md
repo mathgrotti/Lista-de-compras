@@ -1,3 +1,4 @@
+https://media.discordapp.net/attachments/782794257085366274/1342551568897015859/giphy_1.gif?ex=67ba0c15&is=67b8ba95&hm=cd38e809f010de6b1adbb8a7aa0b8098a6ab6ba7c4c7ec45d74552f215da29ca&=&width=432&height=243
 Lista de Compras
 
 Um aplicativo de gerenciamento de lista de produtos.
