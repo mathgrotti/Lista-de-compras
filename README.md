@@ -1,5 +1,5 @@
 <p align="left">
-  <img align="right" alt="Matheus-gif" src="https://media.discordapp.net/attachments/782794257085366274/1342551568897015859/giphy_1.gif?ex=67ba0c15&is=67b8ba95&hm=cd38e809f010de6b1adbb8a7aa0b8098a6ab6ba7c4c7ec45d74552f215da29ca&=&width=432&height=243">
+  <img align="right" alt="Matheus-gif" src="https://media.discordapp.net/attachments/782794257085366274/1342552615480987688/ezgif-473f9c1557b578.gif?ex=67ba0d0e&is=67b8bb8e&hm=8afcf8b983ea372313ce3d582fafbbfd0eb6e81f39bc439c3a5149b562e21151&=&width=180&height=180">
 </p>
 Lista de Compras
 
